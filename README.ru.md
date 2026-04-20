@@ -9,6 +9,8 @@
     <img src="https://shields.dvurechensky.pro/badge/.NET-8.0-blue?logo=dotnet">
     <img src="https://shields.dvurechensky.pro/badge/Freelancer-2003-green">
     <img src="https://shields.dvurechensky.pro/badge/Status-Active-brightgreen">
+    <img src="https://shields.dvurechensky.pro/nuget/v/Lizerium.RDL.Converter">
+    <img src="https://shields.dvurechensky.pro/nuget/dt/Lizerium.RDL.Converter">
 </p>
 
 <div align="center" style="margin: 20px 0; padding: 10px; background: #1c1917; border-radius: 10px;">
