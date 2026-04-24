@@ -18,7 +18,7 @@
     <EmitCompilerGeneratedFiles>true</EmitCompilerGeneratedFiles>
     <CompilerGeneratedFilesOutputPath>obj\Generated</CompilerGeneratedFilesOutputPath>
     <Description>C# implementation of frc.exe (Freelancer Resource Compiler). Converts RDL (XML) into FRC runtime text format.</Description>
-    <PackageTags>Freelancer;GameData;Modding;Lizerium</PackageTags>
+    <PackageTags>Freelancer;GameData;Modding;Lizerium;Dvurechensky</PackageTags>
     <PackageIcon>LOGO_400x400.png</PackageIcon>
     <PackageReadmeFile>nuget.md</PackageReadmeFile>
   </PropertyGroup>
