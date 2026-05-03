@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky, Jason Hood (adoxa)
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 02 мая 2026 19:17:14
- * Version: 1.0.19
+ * Last Updated: 03 мая 2026 06:52:52
+ * Version: 1.0.20
  */
 
 [assembly: Parallelize(Scope = ExecutionScope.MethodLevel)]
