@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky, Jason Hood (adoxa)
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 08 мая 2026 06:52:26
- * Version: 1.0.25
+ * Last Updated: 09 мая 2026 07:53:08
+ * Version: 1.0.26
  */
 
 namespace LizeriumRDL.Test
