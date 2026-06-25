@@ -2,8 +2,8 @@
  * Author: Nikolay Dvurechensky, Jason Hood (adoxa)
  * Site: https://dvurechensky.pro/
  * Gmail: dvurechenskysoft@gmail.com
- * Last Updated: 24 июня 2026 10:35:12
- * Version: 1.0.72
+ * Last Updated: 25 июня 2026 16:31:15
+ * Version: 1.0.73
  */
 
 using System;
